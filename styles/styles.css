@@ -128,7 +128,7 @@ section {
 
 section>div {
     display: flex;
-    gap: 5px;
+    gap: 30px;
 }
 
 section h2 {
